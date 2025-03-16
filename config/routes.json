@@ -1,0 +1,8 @@
+{
+    "routes": {
+        "/home": "home.html"
+        
+    },
+    "missingMessage": "Sorry! This page cannot be found.",
+    "internalErrorMessage": "Uh oh! An internal server error occurred."
+}
